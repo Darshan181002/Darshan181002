@@ -18,20 +18,11 @@ and AI-powered business operations.
 
 ## Tech Stack
 
-Frontend
-- React
-- Next.js
-- React Native
-- TypeScript
-
-Backend
-- Node.js
-- Express
-
-Database
-- PostgreSQL
-- MongoDB
-
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql)
 ---
 
 ## Featured Projects
