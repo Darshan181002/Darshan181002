@@ -1,28 +1,60 @@
-Hi, I'm Darshan 👋
+# Hey, I'm Darshan 👋
 
-Founder of Harvest Direct
+Founder of Harvest Direct 🚚
 
-Building a B2B food supply chain platform
-for restaurants and hotels.
+Building technology for restaurants, supply chains,
+and AI-powered business operations.
 
-## Current Projects
+---
 
-🚚 Harvest Direct
+## Current Focus
 
-🤖 Voice AI Chatbot
+🚚 Harvest Direct  
+🤖 Voice AI & Conversational Systems  
+📦 Restaurant Procurement Tech  
+📊 CRM & Operations Software
 
-🏢 Real Estate CRM
+---
 
 ## Tech Stack
 
-React
-Next.js
-React Native
-Node.js
-PostgreSQL
+Frontend
+- React
+- Next.js
+- React Native
+- TypeScript
+
+Backend
+- Node.js
+- Express
+
+Database
+- PostgreSQL
+- MongoDB
+
+---
+
+## Featured Projects
+
+### Harvest Direct
+B2B food supply chain platform for restaurants.
+
+### Mumbai Social
+Community-driven Mumbai discovery platform.
+
+### Talking Chatbot
+Voice-first conversational AI experience.
+
+### Transparent Notes
+Desktop notes app for focused work.
+
+---
 
 ## Connect
 
-LinkedIn
-Email
-Portfolio
+📧 workwithdarshannn@gmail.com
+
+💼 LinkedIn:
+linkedin.com/in/darshan-dhakan-66b9731b2
+
+📍 Mumbai, India
