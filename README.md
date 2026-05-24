@@ -1,3 +1,4 @@
+<img width="1774" height="887" alt="ChatGPT Image May 24, 2026, 05_07_09 PM" src="https://github.com/user-attachments/assets/5b5fdf90-95fe-45ef-bed3-f5cf8e7845ca" />
 # Hey, I'm Darshan 👋
 
 Founder of Harvest Direct 🚚
