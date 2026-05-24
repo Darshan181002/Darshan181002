@@ -58,3 +58,12 @@ Desktop notes app for focused work.
 linkedin.com/in/darshan-dhakan-66b9731b2
 
 📍 Mumbai, India
+
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Darshan181002&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=Darshan181002)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan181002&layout=compact)
