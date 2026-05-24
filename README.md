@@ -62,8 +62,9 @@ linkedin.com/in/darshan-dhakan-66b9731b2
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Darshan181002&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darshan181002&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan181002&layout=compact&theme=github_dark)
 
 ![Streak](https://streak-stats.demolab.com?user=Darshan181002)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshan181002&layout=compact)
